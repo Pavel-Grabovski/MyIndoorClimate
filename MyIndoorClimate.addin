@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+<AddIn Type="Application">
+                <Name>MyIndoorClimate</Name>
+                <Assembly>MyIndoorClimate\MyIndoorClimate.dll</Assembly>
+                <AddInId>122c6fdd-89c0-420b-a1da-3e0d8f263463</AddInId>
+                <FullClassName> MyIndoorClimate.Acoustics.Add</FullClassName>
+                <VendorId>Pavel_Grabovskiy</VendorId>
+</AddIn>
+</RevitAddIns>

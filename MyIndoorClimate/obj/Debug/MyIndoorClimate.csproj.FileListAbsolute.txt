@@ -1,0 +1,8 @@
+C:\Users\PAGrabovskii\source\repos\MyIndoorClimate\MyIndoorClimate\obj\Debug\MyIndoorClimate.csproj.AssemblyReference.cache
+C:\Users\PAGrabovskii\source\repos\MyIndoorClimate\MyIndoorClimate\obj\Debug\MyIndoorClimate.csproj.CoreCompileInputs.cache
+C:\Users\PAGrabovskii\source\repos\MyIndoorClimate\MyIndoorClimate\bin\Debug\MyIndoorClimate.dll
+C:\Users\PAGrabovskii\source\repos\MyIndoorClimate\MyIndoorClimate\bin\Debug\MyIndoorClimate.pdb
+C:\Users\PAGrabovskii\source\repos\MyIndoorClimate\MyIndoorClimate\obj\Debug\MyIndoorClimate.dll
+C:\Users\PAGrabovskii\source\repos\MyIndoorClimate\MyIndoorClimate\obj\Debug\MyIndoorClimate.pdb
+C:\Users\PAGrabovskii\source\repos\MyIndoorClimate\MyIndoorClimate\obj\Debug\MyIndoorClimate.Properties.Resources.resources
+C:\Users\PAGrabovskii\source\repos\MyIndoorClimate\MyIndoorClimate\obj\Debug\MyIndoorClimate.csproj.GenerateResource.cache

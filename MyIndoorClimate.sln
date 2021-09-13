@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyIndoorClimate", "MyIndoorClimate\MyIndoorClimate.csproj", "{DA3E9D61-E2CF-4A14-B710-A152B13DD601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA3E9D61-E2CF-4A14-B710-A152B13DD601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3E9D61-E2CF-4A14-B710-A152B13DD601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3E9D61-E2CF-4A14-B710-A152B13DD601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3E9D61-E2CF-4A14-B710-A152B13DD601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26460577-855A-4F1B-86F7-1DF133253D42}
+	EndGlobalSection
+EndGlobal
